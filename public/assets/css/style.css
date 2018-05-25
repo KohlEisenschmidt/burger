@@ -4,7 +4,8 @@ body {
 }
 
 .burgerimg {
-    max-width: 200px;;
+    max-width: 200px;
+    margin-top: 50px;
 }
 
 h1 {

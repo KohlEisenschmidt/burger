@@ -18,38 +18,3 @@ h2 {
     text-align: center;
     color: #cc0000;
 }
-
-.uneaten {
-    /* align-content: right; */
-    /* margin: auto; */
-}
-
-.eaten {
-    /* text-align: center; */
-    /* align-content: center; */
-}
-
-li {
-    /* align-content: center; */
-}
-
-dl, ol, ul {
-    /* margin-right: 50px; */
-}
-
-.row {
-    /* align-content: center; */
-    /* align-content: right; */
-}
-
-.col-md-6 .text-center {
-    /* align-content: center; */
-    /* margin-left: 500px;  */
-}
-
-#newburger {
-    /* align-content: right; */
-    /* margin-left: 50px;  */
-     /* margin: auto; */
-    
-}
